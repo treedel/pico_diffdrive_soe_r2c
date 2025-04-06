@@ -1,4 +1,4 @@
-# libbot_hw
+# pico_diffdrive_soe_r2c
 
 Code files for connecting libbot core systems with hardware systems. Current implementation uses Raspberry Pi Pico and PicoSDK to make things work.
 
